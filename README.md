@@ -76,10 +76,7 @@ For all projects:
   - Answering technical questions
 
 ## 🔗 Quick Access Links
-- [Libft Checklist](#)
-- [ft_printf Rubric](#)
-- [push_swap Metrics](#)
-- [Philosophers Tests](#)
+- [42 Eval](https://42-evaluation-sheets-hub.vercel.app/)
 
 ## ℹ️ Usage Tips
 1. Review sheet before starting project

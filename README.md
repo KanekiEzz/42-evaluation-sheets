@@ -1,3 +1,4 @@
+### The 42 School asked me to take down my site (42 evaluation sheets hub) because it violates their policies. I must comply to avoid consequences. If you relied on it, I apologize—please use official 42 resources instead.
 <!--
 # 42 Evaluation Sheets Hub
 

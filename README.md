@@ -1,3 +1,4 @@
+<!--
 # 42 Evaluation Sheets Hub
 
 ## 📝 Project Evaluation Sheets
@@ -84,4 +85,6 @@ For all projects:
 3. Prepare defense explanations
 4. Test with edge cases
 5. Verify with `valgrind`
+6. 
+!-->
 
